@@ -21,6 +21,10 @@ This hands-on experience helped me understand how Jenkins automates and visualiz
 
 ![Screenshot 2025-05-20 102439](https://github.com/user-attachments/assets/e3bd9692-616f-42aa-a395-a970e064fc67)
 
+![Screenshot 2025-05-20 100529](https://github.com/user-attachments/assets/3618b2fe-5688-4faa-b21b-f4ae820f9a33)
+
+
+
 
 
 
